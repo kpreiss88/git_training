@@ -1,9 +1,9 @@
 .antek.number:after {
-  content: "";
+  content: "666";
 }
 .antek.famousMan:after {
-  content: "";
+  content: "Stephen King";
 }
 .antek.positiveAdjective:after {
-  content: "";
+  content: "glamorous";
 }
