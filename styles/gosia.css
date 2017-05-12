@@ -1,9 +1,9 @@
 .gosia.place:after {
-  content: "";
+  content: "studio";
 }
 .gosia.verbPast:after {
-  content: "";
+  content: "was";
 }
 .gosia.manFamous:after {
-  content: "";
+  content: "Fryderyk Chopin";
 }
