@@ -1,3 +1,18 @@
 .karolina.name:after {
-    content: "karolina";
+    content: "";
+}
+.karolina.place:after {
+    content: "";
+}
+.karolina.tvShow:after {
+    content: "";
+}
+.karolina.karolina:after {
+    content: "";
+}
+.karolina.womanFamous:after {
+    content: "";
+}
+.karolina.positiveAdjective:after {
+    content: "";
 }
