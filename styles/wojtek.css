@@ -1,15 +1,15 @@
 .wojtek.number:after {
-    content: "";
+    content: "21";
 }
 .wojtek.verbIng:after {
-    content: "";
+    content: "swimming";
 }
 .wojtek.famousMan:after {
-    content: "";
+    content: "Joseph Stalin";
 }
 .wojtek.famousMan2:after {
-    content: "";
+    content: "Jesus";
 }
 .wojtek.famousMan3:after {
-    content: "";
+    content: "Donald Tusk";
 }
