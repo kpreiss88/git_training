@@ -1,18 +1,3 @@
 .karolina.name:after {
-    content: "Karolina";
-}
-.karolina.place:after {
-    content: "school";
-}
-.karolina.tvShow:after {
-    content: "Friends";
-}
-.karolina.verbPast:after {
-    content: "swam";
-}
-.karolina.womanFamous:after {
-    content: "Meryl Streep";
-}
-.karolina.positiveAdjective:after {
-    content: "brilliant";
+    content: "";
 }
