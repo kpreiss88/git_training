@@ -1,6 +1,6 @@
 .adrianna.number:after {
-  content: "";
+  content: "9";
 }
 .adrianna.verbPast:after {
-  content: "";
+  content: "did";
 }
